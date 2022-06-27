@@ -1,0 +1,3 @@
+# Primer-entregable-ciclos
+En este primer entregable lo que hice fue crear algoritmos con los ciclos for, while y do.....while. Con respecto a for:
+a) En el primer ejemplo lo que hice fue crear un arreglo con cuatro elementos (4,6,8,2), para luego utilizar el índice de cada uno (0,1,2,3) e ir sumandolos en cada iteración. Entonces, en la primer iteración, la variable "i" vale 0, por lo tanto guarda en la variable "total" el valor de cuatro. Luego, en la segunda iteración, la variable "i" ahora vale 1, por lo tanto ahora al 4 que estaba antes se le suma el 6, y el resultado (10) se suma a la variable "total". Así sucesivamente hasta llegar a la cuarta iteración (ya que son cuatro elementos), donde podemos ver el resultado de sumar los cuatro números (20). 
