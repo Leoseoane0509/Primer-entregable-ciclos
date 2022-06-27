@@ -38,3 +38,20 @@ while (numeros.length > 4) {
   numeros.pop();
 }
 console.log(numeros);
+// Ciclos con do while
+console.log("**********DO WHILE**********");
+// Ejemplo 1
+console.log("**********Ejemplo 1**********");
+let x;
+x = 5;
+do {
+  console.log(x);
+  x++;
+} while (x < 10);
+// Ejemplo 2
+console.log("**********Ejemplo 2**********");
+let y = 16;
+do {
+  console.log(y);
+  y++;
+} while (y < 10);
